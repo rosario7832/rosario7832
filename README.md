@@ -33,8 +33,9 @@ I investigate threats, build security labs, and hunt attackers through logs.
 
 | | Project | What I built |
 |---|---|---|
+| 🚨 | [SOC Analyzer](https://github.com/rosario7832/SOC-analyzer) | Built SOC Analyzer, detected IoCs in SIEM logs, correlated events, generated incident reports |
 | 🔎 | [Wazuh SIEM Lab](https://github.com/rosario7832/Implementation-of-Wazuh-SIEM) | Deployed Wazuh, configured agents, triaged simulated alerts |
-| 🪤 | [Honeypot Lab](https://github.com/rosario7832/SIEM-Honeypot-Lab) | Captured unauthorized access attempts, analyzed attack patterns |
+| 🍯 | [Honeypot Lab](https://github.com/rosario7832/SIEM-Honeypot-Lab) | Captured unauthorized access attempts, analyzed attack patterns |
 | 🏠 | [Active Directory Lab](https://github.com/rosario7832/Active-Directory-Installation-and-Configuration) | Windows Server 2019 + AD + PowerShell user automation |
 | 📁 | [Full Portfolio](https://github.com/rosario7832/Cybersecurity-Portfolio) | All projects, investigations and certifications |
 
